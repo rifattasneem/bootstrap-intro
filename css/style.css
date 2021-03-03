@@ -1,0 +1,19 @@
+.banner{
+	min-height: 500px;
+	padding-top: 200px;
+	background-image: url(../image/banner.jpg);
+	background-color: #000000b5;
+	background-blend-mode: darken;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+}
+.banner h1{
+	margin: 0 auto;
+	min-height: 60px;
+	width: 40%;
+	text-align: center;
+	color: white;
+	background-color: #377cdb;
+	border-radius: 3px;
+}
